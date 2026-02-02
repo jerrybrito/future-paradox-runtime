@@ -1,0 +1,2 @@
+# Requires: future-liminal
+# (Not available on PyPI)
